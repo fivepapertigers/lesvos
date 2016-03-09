@@ -1,0 +1,380 @@
+@import '../../bower_components/magnific-popup/src/css/main';
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,200,200italic,300italic,400italic,600italic,700,700italic,900,900italic);
+html, body, #pages {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16pt;
+  color: black;
+  background: url("../assets/photos/570A8873.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position:bottom;
+  box-sizing: border-box;
+}
+
+.cf {
+  overflow: auto;
+  zoom: 1;
+}
+
+.img-150 {
+  width: 350px;
+  margin-bottom: 30px;
+}
+
+.img-left {
+  float: left;
+  margin-right: 30px;
+}
+
+.img-right {
+  float: right;
+  margin-left: 30px;
+}
+
+.scrolling-content {
+  position: absolute;
+  padding: inherit;
+  top:0;bottom: 0;left: 0;right: 0;
+  overflow-y:auto;
+}
+
+.full-page {
+  position:absolute;
+  top:0;bottom:0;left:0; right:0;
+  background-size: cover;
+}
+
+.half-page-left {
+  position:absolute;
+  top:0;bottom:0;left:0; right:50%;
+}
+
+.half-page-right {
+  position:absolute;
+  top:0;bottom:0;left:50%; right:0;
+}
+
+
+
+.panel {  
+  text-align: left;
+  padding: 50px 200px;
+  position:relative;
+  width: 100%;
+  display:block;
+  min-height: 100%;
+  height: auto;
+  overflow: hidden;
+  background: none;
+  background-color:white;
+  box-sizing: border-box;
+  top: 0;
+  left: 0;
+  margin: 0;
+}
+
+#opening {
+  background:none;
+  opacity: 1;
+  background-color:black;
+  padding:0;
+  overflow:hidden;
+}
+
+#opening-video-container {
+  position: absolute;
+  top:0;bottom:0;left:0;right:0;
+  background: none;
+  z-index: 999;
+  opacity:1;
+}
+
+#opening #opening-text {
+  opacity:1;
+  font-weight: 100;
+  padding-left:10%;
+  text-align: left;
+  z-index: 2;
+  background:none;
+  color: black;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-size: 48pt;
+  text-align: center;
+  width: 100%;
+  font-weight: 100;
+  color: black;
+}
+
+#opening #opening-text h1 {
+  opacity:0;
+  text-align: left;
+}
+
+#opening #opening-text p {
+  opacity:0;
+  font-size: 18pt;
+}
+
+#island-of-goodbyes{
+  background: none;
+  background-color: white;
+  color:black;
+  height: auto;
+}
+
+.videojs-background-wrap {
+  overflow:hidden;
+  position:absolute;
+  height:100%;
+  width:100%;
+  top:0;
+  left:0;
+  z-index: -999;
+}
+
+div[class*="fixed-overlay"] {
+  position: fixed;
+  color: white;
+  text-align: center;
+  width: 100%;
+  font-size: 14pt;
+  margin:0;
+  left: 0;
+  z-index: 999;
+  background-color: rgba(0,0,0,.5);
+}
+
+.fixed-overlay-top {
+  top:0;
+}
+
+.fixed-overlay-bottom {
+  bottom: 0;
+}
+
+#bittersweet-quote {
+  color: black;
+  position:relative;
+  padding:0;
+  overflow:hidden;
+}
+#bittersweet-quote .bittersweet-quote-text {
+  position:fixed;
+  left:50px;
+  top:20px;
+  text-align: left;
+  opacity:0;
+}
+#bittersweet-quote h3 {
+  font-size: 36px;
+  text-align: left;
+}
+#bittersweet-quote .bittersweet-quote-background {
+  background-size: cover;
+  background-image: url('../assets/photos/7I1A0316.jpg');
+  position: absolute;
+  left: -5%;
+  top: -5%;
+  width:110%;
+  height:110%;
+}
+
+#graveyard {
+  padding:0;
+  background-color: white;
+  overflow: hidden;
+}
+
+#graveyard #graveyard-background {
+  background-image: url('../assets/photos/570A0103.jpg');
+  background-size: cover;
+  background-position:center bottom;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+#graveyard #graveyard-foreground {
+  height: 100%;
+  background:none;
+  position: absolute;
+  top: 0;
+  color: white;
+}
+
+#neda-video-page {
+  background:none;
+  background-color:#edf1f2;
+  color: black;
+}
+
+#lesvos-slideshow a {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+}
+#lesvos-slideshow a span {
+  position: absolute;
+  width: 100%;
+  text-decoration: none;
+  color: white;
+  background-color: rgba(0,0,0,.5);
+  padding: 3px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.vjs-fullscreen {
+  padding-top: 0px
+}
+
+.gallery-image-wrapper {
+  display: inline-block;
+  background:none;
+  float: left;
+  position: relative;
+  width: 25%;
+}
+
+.gallery-dummy {
+  padding-top: 125%;
+  width: 100%;
+}
+.gallery-image {
+  position: absolute;
+  top:0;bottom:0;left:0;right:0;
+  background-color:white;
+  text-align:center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#neda-title {
+  width: 40%;
+  position:absolute;
+  left:10%;top:30%;bottom:0;
+}
+
+#neda-image {
+  background-image:url("../assets/photos/img020.jpg");
+}
+#rafat-image {
+  background-image:url("../assets/photos/img016.jpg");
+  display:none;
+}
+
+.neda-video-page-image{
+  background-position: left;
+  background-size: cover;
+  width: 50%;
+  position:absolute;
+  top: 0;
+  bottom:0;
+  right: 0;
+
+}
+
+#neda-video-container {
+  position: absolute;
+  top:0;bottom:0;left:0;right:0;
+  background: none;
+  z-index: 999;
+  opacity:0;
+}
+
+.vjs-default-skin .vjs-big-play-button {
+  top: 50%;
+  left: 50%;
+  margin: -4em auto auto -6em;
+}
+
+.vjs-loading-spinner {
+  display: none !important;
+}
+
+.trigger {
+  position: absolute;
+  width: 0%;
+  bottom: 0;
+  top: 0;
+}
+
+.trigger-double {
+  bottom: -50%;
+  top: -50%;
+}
+
+#stats iframe {
+  position: relative;
+  width:100%;
+}
+
+.lower-third-white {
+  background-color: white;
+  padding: 5px 30px;
+  position: absolute;
+  bottom: 10%;
+  left:0;
+  right:0;
+  color: black;
+}
+
+.keeps-scrolling {
+  padding:0;
+  overflow: auto;
+}
+
+#romeo-image {
+  background-position: center;
+  background-size: cover;
+}
+
+#whats-app-image {
+  background-size: cover;
+  background-position: right;
+}
+
+#romeo-text, #whats-app-text {
+  padding:100px;
+  padding-top:0;
+  background-color: white;
+  color: black;
+  position: relative;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+#logos {
+  text-align: center;
+}
+
+.logo-wrapper {
+  width:100%;
+}
+.logo{
+  min-width: 300px;
+  width: 40%;
+  clear: both;
+}
+
+.credits {
+  width: 100%;
+  text-align:center;
+  margin: 0 auto;
+  margin-bottom:200px;
+}
+
+
+.pin{
+  width: 50%;
+  margin-left: 25%;
+}

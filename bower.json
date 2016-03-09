@@ -1,0 +1,24 @@
+{
+  "name": "lesvos",
+  "authors": [
+    "Jacob Griswold <jacobagriswold@gmail.com>"
+  ],
+  "description": "an interactive story of refugee arrival to lesvos",
+  "main": "index.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "scrollmagic": "^2.0.5",
+    "videojs-background": "https://github.com/matthojo/videojs-Background.git",
+    "gsap": "1.18.2",
+    "magnific-popup": "1.1.0"
+  }
+}

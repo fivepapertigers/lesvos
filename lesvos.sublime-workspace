@@ -1,0 +1,1578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"t"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"get_screenin",
+				"get_screening_project_draft"
+			],
+			[
+				"dra",
+				"draft_id"
+			],
+			[
+				"get_",
+				"get_by_id"
+			],
+			[
+				"get",
+				"get_valid_id"
+			],
+			[
+				"type",
+				"type_to_constant"
+			],
+			[
+				"ref",
+				"ref_type"
+			],
+			[
+				"typ",
+				"type_to_constant"
+			],
+			[
+				"succ",
+				"success_url"
+			],
+			[
+				"grow",
+				"growl_objects"
+			],
+			[
+				"Screening",
+				"ScreeningDB"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"project",
+				"project"
+			],
+			[
+				"configure",
+				"configure_mongoid"
+			],
+			[
+				"is",
+				"is_a"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"valid",
+				"validator"
+			],
+			[
+				"submit",
+				"formSubmit"
+			],
+			[
+				"callback",
+				"callback"
+			],
+			[
+				"page",
+				"pageValidator"
+			],
+			[
+				"total",
+				"total_pages"
+			],
+			[
+				"current",
+				"current_page"
+			],
+			[
+				"sub",
+				"submitForm"
+			],
+			[
+				"rul",
+				"rulesRequired"
+			],
+			[
+				"danger",
+				"danger-bg"
+			],
+			[
+				"redirect",
+				"redirect_path"
+			],
+			[
+				"data",
+				"data_store"
+			],
+			[
+				"logg",
+				"logger"
+			],
+			[
+				"not",
+				"notification"
+			],
+			[
+				"to",
+				"to_hash"
+			],
+			[
+				"strip",
+				"strip_carriage_returns"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"redire",
+				"redirect"
+			],
+			[
+				"validation",
+				"validations"
+			],
+			[
+				"upla",
+				"uploaded_size"
+			],
+			[
+				"image",
+				"image_url"
+			],
+			[
+				"parent",
+				"parentHeight"
+			],
+			[
+				"colu",
+				"columnHeight"
+			],
+			[
+				"log",
+				"log_message"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"redi",
+				"redirect_path"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"the",
+				"the_field"
+			],
+			[
+				"the_",
+				"the_title"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"play",
+				"playheadIsDragging"
+			],
+			[
+				"playhead",
+				"playheadIsDragging"
+			],
+			[
+				"th",
+				"theme_my_login"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"get_scree",
+				"get_screening_project_draft"
+			],
+			[
+				"to_",
+				"to_s"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"find",
+				"find_and_modify"
+			],
+			[
+				"draft",
+				"draft_auth"
+			],
+			[
+				"ex",
+				"Exception"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"get_scre",
+				"get_screening_project_draft"
+			],
+			[
+				"category",
+				"categorySelector"
+			],
+			[
+				"text_",
+				"text_area"
+			],
+			[
+				"screener",
+				"screenerHandler"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"res",
+				"rescue"
+			],
+			[
+				"gner",
+				"generate_confirmation_code"
+			],
+			[
+				"send",
+				"send_invite"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"CO",
+				"Communications"
+			],
+			[
+				"remove",
+				"removeScreenerClicked"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"owner",
+				"owner_id"
+			],
+			[
+				"new_screening",
+				"new_screening"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"confirmation",
+				"confirmation_code"
+			],
+			[
+				"e",
+				"ea	each { |e| .. }"
+			],
+			[
+				"conf",
+				"confirmation_code"
+			],
+			[
+				"gener",
+				"generate_confirmation_code"
+			],
+			[
+				"data-",
+				"data-timestamp"
+			],
+			[
+				"opern",
+				"openMarkId"
+			],
+			[
+				"left",
+				"left_val"
+			],
+			[
+				"Open",
+				"OpenMarker"
+			],
+			[
+				"switc",
+				"switchEvenOdd"
+			],
+			[
+				"switch",
+				"switch"
+			],
+			[
+				"click",
+				"clickOutside"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"out",
+				"out_integer"
+			],
+			[
+				"function",
+				"function_bar"
+			],
+			[
+				"elem",
+				"elem"
+			],
+			[
+				"marker_",
+				"marker_container"
+			],
+			[
+				"viewpo",
+				"viewport_right_edge"
+			],
+			[
+				"offset",
+				"offsetLeft"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"backgorund",
+				"background-color"
+			],
+			[
+				"off",
+				"offsetLeft"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"curren",
+				"current_x"
+			],
+			[
+				"active",
+				"activeMark"
+			],
+			[
+				"sort",
+				"sort_by"
+			],
+			[
+				"draw",
+				"drawTimeline"
+			],
+			[
+				"first",
+				"firsttime"
+			],
+			[
+				"pause",
+				"pauseVideo"
+			],
+			[
+				"Tot",
+				"totalCSecs"
+			],
+			[
+				"broder",
+				"border-radius"
+			],
+			[
+				"sli",
+				"slice"
+			],
+			[
+				"activate",
+				"activateMarker"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"card_",
+				"card_widget"
+			],
+			[
+				"maid",
+				"markId"
+			],
+			[
+				"marker",
+				"markerList"
+			],
+			[
+				"findMarker",
+				"findMarkerById"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"last",
+				"lastIndexOf"
+			],
+			[
+				"self",
+				"self"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"Card",
+				"CardDisplay"
+			],
+			[
+				"list",
+				"list"
+			],
+			[
+				"bac",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 7226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/index.js",
+			"settings":
+			{
+				"buffer_size": 1607,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower_components/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js",
+			"settings":
+			{
+				"buffer_size": 104189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/bundle.js",
+			"settings":
+			{
+				"buffer_size": 1272603,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/gsap",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/gsap/src",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/jquery-2.1.0.min",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/scrollmagic",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/scrollmagic/scrollmagic",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/scrollmagic/scrollmagic/minified",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/scrollmagic/scrollmagic/minified/plugins",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/scrollmagic/scrollmagic/uncompressed",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/scrollmagic/scrollmagic/uncompressed/plugins",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/video.js",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/video.js/dist",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/videojs-background",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/bower_components/videojs-background/dist",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/dist",
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/src"
+	],
+	"file_history":
+	[
+		"/Volumes/LESVOS/FOUR CORNERS/Route of Death/WEB/lesvos-repo/src/js/index.js",
+		"/Users/fourcornersediting/screening-room/Gemfile",
+		"/Users/fourcornersediting/screening-room/views/users/dashboard.haml",
+		"/Users/fourcornersediting/screening-room/controllers/screenings_routes.rb",
+		"/Users/fourcornersediting/screening-room/Rakefile",
+		"/Users/fourcornersediting/screening-room/workers/suckerpunch.rb",
+		"/Users/fourcornersediting/screening-room/controllers/pages_routes.rb",
+		"/Users/fourcornersediting/screening-room/controllers/users_routes.rb",
+		"/Users/fourcornersediting/screening-room/helpers/social_helpers.rb",
+		"/Users/fourcornersediting/screening-room/views/screenings/show.haml",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/plugins/timeline-js/README.markdown",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/screenings/screening_show.js",
+		"/Users/fourcornersediting/screening-room/models/concerns/validations.rb",
+		"/Users/fourcornersediting/screening-room/controllers/festivals_routes.rb",
+		"/Users/fourcornersediting/screening-room/lib/sr/form_builder.rb",
+		"/Users/fourcornersediting/screening-room/models/festival.rb",
+		"/Users/fourcornersediting/screening-room/models/concerns/email.rb",
+		"/Users/fourcornersediting/screening-room/models/concerns/database_field.rb",
+		"/Users/fourcornersediting/screening-room/models/concerns/festival_form.rb",
+		"/Users/fourcornersediting/screening-room/models/submission.rb",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/show.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_text_field.haml",
+		"/Users/fourcornersediting/screening-room/controllers/groups_routes.rb",
+		"/Users/fourcornersediting/screening-room/controllers/drafts_routes.rb",
+		"/Users/fourcornersediting/screening-room/models/screening.rb",
+		"/Users/fourcornersediting/screening-room/models/concerns/embedded_model.rb",
+		"/Users/fourcornersediting/screening-room/models/base_model.rb",
+		"/Users/fourcornersediting/screening-room/models/concerns/class_attributes.rb",
+		"/Users/fourcornersediting/screening-room/vendor/assets/stylesheets/fileuploader.css",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/create.haml",
+		"/Users/fourcornersediting/screening-room/views/components/_image_upload.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/_festival_form.haml",
+		"/Users/fourcornersediting/screening-room/models/concerns/embedded_object.rb",
+		"/Users/fourcornersediting/screening-room/models/concerns/festival_period.rb",
+		"/Users/fourcornersediting/screening-room/views/festivals/submissions/create.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_address_field.haml",
+		"/Users/fourcornersediting/screening-room/models/mixins/model_factory.rb",
+		"/Users/fourcornersediting/screening-room/models/concerns/submission_period.rb",
+		"/Users/fourcornersediting/screening-room/views/festivals/create.haml",
+		"/Users/fourcornersediting/screening-room/models/group.rb",
+		"/Users/fourcornersediting/screening-room/screening_room_server.rb",
+		"/Users/fourcornersediting/screening-room/assets/stylesheets/custom.scss",
+		"/Users/fourcornersediting/screening-room/assets/stylesheets/category_colors.css",
+		"/Users/fourcornersediting/screening-room/views/screenings/processing.haml",
+		"/Users/fourcornersediting/screening-room/assets/stylesheets/screenings.css",
+		"/Users/fourcornersediting/screening-room/views/underconstruction.haml",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/plugins/FileUpload/jquery.fileupload-ui.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/sr-lists.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/sr-loader.js",
+		"/Users/fourcornersediting/screening-room/views/layout.haml",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/templates.js",
+		"/Users/fourcornersediting/screening-room/helpers/interface_helpers.rb",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/forms/multi_page_forms.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/forms/screening_form.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/screenings/edit_categories.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/screenings/export_comments.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/screenings/marker_filter.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/screenings/open_comment.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/screenings/screening_data_store.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/screenings/timeline.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/users/credit_card.js",
+		"/Users/fourcornersediting/screening-room/assets/javascripts/users/edit.js",
+		"/Users/fourcornersediting/screening-room/views/components/_aws_image_form.haml",
+		"/Users/fourcornersediting/screening-room/views/components/loader.haml",
+		"/Users/fourcornersediting/screening-room/views/drafts/_upload_form.haml",
+		"/Users/fourcornersediting/screening-room/views/drafts/_videojs_player.haml",
+		"/Users/fourcornersediting/screening-room/views/drafts/show.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/edit.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/members.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/show.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/submissions/list.haml",
+		"/Users/fourcornersediting/screening-room/views/groups/edit.haml",
+		"/Users/fourcornersediting/screening-room/views/groups/members.haml",
+		"/Users/fourcornersediting/screening-room/views/groups/show.haml",
+		"/Users/fourcornersediting/screening-room/views/invites/index.haml",
+		"/Users/fourcornersediting/screening-room/views/projects/_project_form.haml",
+		"/Users/fourcornersediting/screening-room/views/projects/team.haml",
+		"/Users/fourcornersediting/screening-room/views/screenings/_list.haml",
+		"/Users/fourcornersediting/screening-room/views/screenings/_screening_details.haml",
+		"/Users/fourcornersediting/screening-room/views/screenings/create.haml",
+		"/Users/fourcornersediting/screening-room/views/screenings/edit.haml",
+		"/Users/fourcornersediting/screening-room/views/screenings/modals/_export_form.haml",
+		"/Users/fourcornersediting/screening-room/views/users/_user_create_form.haml",
+		"/Users/fourcornersediting/screening-room/views/users/ajax_create.haml",
+		"/Users/fourcornersediting/screening-room/views/users/edit.haml",
+		"/Users/fourcornersediting/screening-room/views/users/membership/_credit_form.haml",
+		"/Users/fourcornersediting/screening-room/views/users/membership/_membership_form.haml",
+		"/Users/fourcornersediting/screening-room/views/users/password/edit.haml",
+		"/Users/fourcornersediting/screening-room/lib/sr/imager.rb",
+		"/Users/fourcornersediting/screening-room/views/home.haml",
+		"/Users/fourcornersediting/screening-room/views/pages/about.haml",
+		"/Users/fourcornersediting/screening-room/config/compass.rb",
+		"/Users/fourcornersediting/screening-room/views/icons.haml",
+		"/Users/fourcornersediting/screening-room/views/drafts/_draft_form.haml",
+		"/Users/fourcornersediting/screening-room/views/users/membership/cancel.haml",
+		"/Users/fourcornersediting/screening-room/public/js/screenings/screening_dispatcher.js",
+		"/Users/fourcornersediting/screening-room/public/js/plugins/formbuilder-min.js",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_number_field.haml",
+		"/Users/fourcornersediting/screening-room/public/js/jednotka/jednotka.js",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_email_field.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_date_field.haml",
+		"/Users/fourcornersediting/screening-room/views/groups/_group_image_form.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/submissions/code.haml",
+		"/Users/fourcornersediting/screening-room/public/js/forms/festival_submission_form.js",
+		"/Users/fourcornersediting/screening-room/public/js/forms/sr-formbuilder.js",
+		"/Users/fourcornersediting/screening-room/views/users/membership/_countries.haml",
+		"/Users/fourcornersediting/screening-room/views/users/membership/_states.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_website_field.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_time_field.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_radio_field.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_checkboxes_field.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_dropdown_field.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_paragraph_field.haml",
+		"/Users/fourcornersediting/screening-room/views/festivals/form/_price_field.haml",
+		"/Users/fourcornersediting/screening-room.sublime-project",
+		"/Users/fourcornersediting/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/fourcornersediting/screening-room/helpers/kaltura_helpers.rb",
+		"/Users/fourcornersediting/screening-room/helpers/aws_helpers.rb",
+		"/Users/fourcornersediting/screening-room/Procfile",
+		"/Users/fourcornersediting/screening-room/config/aws.yml",
+		"/Users/fourcornersediting/screening-room/models/project.rb",
+		"/Users/fourcornersediting/screening-room/public/styles/screening_form.css",
+		"/Users/fourcornersediting/screening-room/views/screenings/_screening_properties_form.haml",
+		"/Users/fourcornersediting/screening-room/public/js/forms/multi_page_forms.js",
+		"/Users/fourcornersediting/screening-room/public/js/screenings/screenings.js",
+		"/Users/fourcornersediting/screening-room/views/screenings/_screening_viewer_form.haml",
+		"/Users/fourcornersediting/screening-room/public/js/forms/screening_form.js",
+		"/Users/fourcornersediting/screening-room/views/screenings/_screening_form.haml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"",
+			"-*.dds,-*.eot,-*.gif,-*.ico,-*.jar,-*.jpeg,-*.jpg,-*.log,-*.pdf,-*.png,-*.swf,-*.tga,-*.ttf,-*.zip",
+			"/Users/fourcornersediting/screening-room/",
+			"/Users/fourcornersediting/screening-room/public/js/plugins",
+			"/Users/fourcornersediting/screening-room",
+			"",
+			"/Users/fourcornersediting/screening-room/sass",
+			"/public/sass",
+			"",
+			"/Users/fourcornersediting/screening-room/",
+			"/Users/fourcornersediting/screening-room/lib/kaltura/kaltura_plugins",
+			"/Users/fourcornersediting/screening-room/lib/kaltura",
+			"/Users/fourcornersediting/screening-room/",
+			"/Users/fourcornersediting/screening-room/public/js/forms",
+			"",
+			"/Users/fourcornersediting/screening-room/",
+			"/Users/fourcornersediting/screening-room/views/",
+			"/Users/fourcornersediting/screening-room/",
+			"/Users/fourcornersediting/screening-room/views/screenings",
+			"/Users/fourcornersediting/screening-room/",
+			"/Users/fourcornersediting/screening-room/views/emails",
+			"/Users/fourcornersediting/screening-room/",
+			"/Users/fourcornersediting/screening-room/public/images/new_timeline",
+			"/Users/fourcornersediting/screening-room/public/js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"neda-video",
+			"video",
+			"text",
+			"setTween",
+			"container =",
+			"timeline-js",
+			"perform_async",
+			"async.perform",
+			".async",
+			"timeline-min",
+			"timeline-min.",
+			"env",
+			"run_tests",
+			"spec",
+			"params[:submission",
+			"submission",
+			"one_of_many_options",
+			"logger.log_message",
+			"form",
+			"email",
+			"Form",
+			"new_attribute",
+			"inherit_attributes",
+			"HasAttributes",
+			"databaseField",
+			"remove-image",
+			"remove_image",
+			"db_fields",
+			"validates",
+			"self.",
+			"valid",
+			"vali",
+			"Set",
+			"subtype",
+			"sr-loader",
+			"cf.css",
+			"dashboard.css",
+			"draft_form.css",
+			"project_edit.css",
+			"project_form.css",
+			"projects.css",
+			"screenings.css",
+			"template.css",
+			"jednotka/",
+			"jednotka",
+			"css",
+			"jquery.fileupload",
+			"fileupload/",
+			"fileuploader",
+			"docs.css",
+			"sr-loader.gif",
+			"EJS",
+			"jst",
+			".ejs\"",
+			"JST[\"",
+			"new EJS({",
+			"new EJS",
+			"EJS",
+			"- js_tag",
+			"\"images/",
+			"'images/",
+			"defaults",
+			"images",
+			"'/images",
+			"\"/icons",
+			"ng\"",
+			"\"/images",
+			"  ",
+			"\"/images/",
+			"\"/images",
+			"- stylesheet_tag",
+			"- css_tag",
+			"- css_tag \"/styles/",
+			"- js_tag \"/js",
+			"js_tag \"js/",
+			"js_tag \"/js/",
+			"register",
+			"type",
+			"uglif",
+			"let",
+			"validate",
+			"integer_only",
+			"number",
+			"minlength",
+			"!super",
+			"festival.name",
+			"logger.log_message",
+			"has-error",
+			"valid?",
+			"countries",
+			"@val ",
+			"value=",
+			"validate",
+			"valid",
+			"field",
+			"remove_extension",
+			"auto_link",
+			"replace_id",
+			"keep_returns",
+			"readable_date",
+			"timecode_to_date",
+			"read_notification_redirect",
+			"profile_picture_from_id",
+			"sort_by_email",
+			"process_input_properties",
+			"pagination_ranges",
+			"mongolab_uri",
+			"ENV[",
+			"ENV",
+			":environment",
+			"require 'bson",
+			"ENV[",
+			".page",
+			"#previous",
+			"width",
+			"next",
+			"back",
+			":scripts",
+			"jquery",
+			"multi_page",
+			"pagehandler",
+			"choose draft",
+			"draft_auth",
+			"screening_auth",
+			"project_auth",
+			"get_screening_project",
+			"@draft",
+			"get_screening_project"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"field",
+			"",
+			"EmbeddedModel",
+			"\"",
+			"= javascript_tag",
+			"\"icons",
+			"ng\")",
+			"image_path(\"",
+			"",
+			"image_path \"",
+			"= stylesheet_tag",
+			"- stylesheet_tag",
+			"- css_tag \"",
+			"- js_tag \"",
+			"js_tag \"",
+			"@value ",
+			"authorized",
+			"url",
+			"@project.id",
+			"unanswered_invites.length",
+			"unanswered_invites",
+			"invite",
+			"session[:redirect_path]",
+			"plugins/jquery.formalize.min.js",
+			"plugins/jquery.fitvids.js",
+			"plugins/filedrop.js",
+			"plugins/ejs_0.9_alpha_1_production.js",
+			"ksettings",
+			"#draft-description",
+			"#draft-name",
+			"name",
+			"description",
+			"name",
+			"{:type=>",
+			".js\"}",
+			", :src=>",
+			"draft",
+			"project",
+			"screening",
+			"draft",
+			"h3.panel-title",
+			"h3",
+			"tab-content-2",
+			"tab-content-1",
+			"36px",
+			"    ",
+			"   ",
+			"', :",
+			"\", :",
+			":href=>",
+			"\"}",
+			":src=>",
+			"link{",
+			"script{",
+			":type=>",
+			"styles",
+			"images/jednotka",
+			"js/jednotka",
+			"styles/jednotka",
+			"js/jednotka",
+			"styles",
+			"js/jednotka",
+			"#navuser_menu",
+			"$slug",
+			"Email",
+			"require_relative '../kaltura_client.rb'",
+			".form_error",
+			"elem",
+			"duplicate",
+			"get_user_by_id",
+			"user_arr",
+			"screening",
+			"dashboard",
+			"Screening",
+			"screening",
+			"Screening",
+			"screening",
+			"Screening",
+			"screening",
+			"Screening",
+			"screening",
+			"draft_auth",
+			"project",
+			"li",
+			"mark",
+			"full_name",
+			"viewport",
+			"scrolling_override",
+			"activeMark",
+			"total",
+			"csecs",
+			"btn_cat_",
+			"handler",
+			"",
+			"mark",
+			"markerIDList",
+			"change_zoom",
+			"change_zoom2",
+			"slider",
+			"CSec",
+			"cSec",
+			"csec",
+			"Converter",
+			"centSecsToTime",
+			"self",
+			"Timeline"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2792,
+								2792
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1729.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								923,
+								923
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bower_components/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 104189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dist/bundle.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1272603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 4.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lesvos.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.js",
+				"src/js/index.js"
+			],
+			[
+				"dashboard",
+				"views/users/dashboard.haml"
+			],
+			[
+				"pages",
+				"controllers/pages_routes.rb"
+			],
+			[
+				"usersroutes",
+				"controllers/users_routes.rb"
+			],
+			[
+				"social",
+				"helpers/social_helpers.rb"
+			],
+			[
+				"work",
+				"workers/suckerpunch.rb"
+			],
+			[
+				"screeningshow",
+				"views/screenings/show.haml"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"submission",
+				"models/submission.rb"
+			],
+			[
+				"validations",
+				"models/concerns/validations.rb"
+			],
+			[
+				"festivalform",
+				"views/festivals/form/show.haml"
+			],
+			[
+				"festivalroutes",
+				"controllers/festivals_routes.rb"
+			],
+			[
+				"database",
+				"models/concerns/database_field.rb"
+			],
+			[
+				"email.rb",
+				"models/concerns/email.rb"
+			],
+			[
+				"screening",
+				"models/screening.rb"
+			],
+			[
+				"form",
+				"lib/sr/form_builder.rb"
+			],
+			[
+				"festival",
+				"models/festival.rb"
+			],
+			[
+				"fileupload",
+				"vendor/assets/stylesheets/fileuploader.css"
+			],
+			[
+				"base",
+				"models/base_model.rb"
+			],
+			[
+				"databa",
+				"models/concerns/database_field.rb"
+			],
+			[
+				"class",
+				"models/concerns/class_attributes.rb"
+			],
+			[
+				"model",
+				"models/mixins/model_factory.rb"
+			],
+			[
+				"base_o",
+				"models/base_model.rb"
+			],
+			[
+				"formbuilder",
+				"lib/sr/form_builder.rb"
+			],
+			[
+				"submission_period",
+				"models/concerns/submission_period.rb"
+			],
+			[
+				"_addres",
+				"views/festivals/form/_address_field.haml"
+			],
+			[
+				"submissioncreate",
+				"views/festivals/submissions/create.haml"
+			],
+			[
+				"festival_form",
+				"views/festivals/_festival_form.haml"
+			],
+			[
+				"festivalcreate",
+				"views/festivals/create.haml"
+			],
+			[
+				"formcreate",
+				"views/festivals/form/create.haml"
+			],
+			[
+				"formshow",
+				"views/festivals/form/show.haml"
+			],
+			[
+				"group.rb",
+				"models/group.rb"
+			],
+			[
+				"serever",
+				"screening_room_server.rb"
+			],
+			[
+				"screenings.css",
+				"assets/stylesheets/screenings.css"
+			],
+			[
+				"sr-lists",
+				"assets/javascripts/sr-lists.js"
+			],
+			[
+				"sr-loader",
+				"assets/javascripts/sr-loader.js"
+			],
+			[
+				"server",
+				"screening_room_server.rb"
+			],
+			[
+				"layout",
+				"views/layout.haml"
+			],
+			[
+				"imager.rb",
+				"lib/sr/imager.rb"
+			],
+			[
+				"userform",
+				"views/users/_user_create_form.haml"
+			],
+			[
+				"interface",
+				"helpers/interface_helpers.rb"
+			],
+			[
+				"group",
+				"models/group.rb"
+			],
+			[
+				"screeningdis",
+				"public/js/screenings/screening_dispatcher.js"
+			],
+			[
+				"screeningdispatcher",
+				"public/js/screenings/screening_dispatcher.js"
+			],
+			[
+				"formbuilder.",
+				"public/js/plugins/formbuilder-min.js"
+			],
+			[
+				"email_field",
+				"views/festivals/form/_email_field.haml"
+			],
+			[
+				"festivaledit",
+				"views/festivals/edit.haml"
+			],
+			[
+				"groupedit",
+				"views/groups/edit.haml"
+			],
+			[
+				"group_image_form",
+				"views/groups/_group_image_form.haml"
+			],
+			[
+				"groupsroutes",
+				"controllers/groups_routes.rb"
+			],
+			[
+				"submissionfor",
+				"public/js/forms/festival_submission_form.js"
+			],
+			[
+				"submission.rb",
+				"models/submission.rb"
+			],
+			[
+				"number_field",
+				"views/festivals/form/_number_field.haml"
+			],
+			[
+				"text_field",
+				"views/festivals/form/_text_field.haml"
+			],
+			[
+				"formbuilder.js",
+				"public/js/plugins/formbuilder-min.js"
+			],
+			[
+				"date",
+				"views/festivals/form/_date_field.haml"
+			],
+			[
+				"jednotka.js",
+				"public/js/jednotka/jednotka.js"
+			],
+			[
+				"addres",
+				"views/festivals/form/_address_field.haml"
+			],
+			[
+				"festivalformshow",
+				"views/festivals/form/show.haml"
+			],
+			[
+				"email",
+				"views/festivals/form/_email_field.haml"
+			],
+			[
+				"website",
+				"views/festivals/form/_website_field.haml"
+			],
+			[
+				"paragrah",
+				"views/festivals/form/_paragraph_field.haml"
+			],
+			[
+				"countries",
+				"views/users/membership/_countries.haml"
+			],
+			[
+				"state",
+				"views/users/membership/_states.haml"
+			],
+			[
+				"address_field",
+				"views/festivals/form/_address_field.haml"
+			],
+			[
+				"field",
+				"models/concerns/database_field.rb"
+			],
+			[
+				"countri",
+				"views/users/membership/_countries.haml"
+			],
+			[
+				"states",
+				"views/users/membership/_states.haml"
+			],
+			[
+				"form_builder",
+				"lib/sr/form_builder.rb"
+			],
+			[
+				"_address",
+				"views/festivals/form/_address_field.haml"
+			],
+			[
+				"",
+				"views/layout.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 538.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 588.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

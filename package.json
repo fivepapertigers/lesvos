@@ -1,0 +1,42 @@
+{
+  "name": "lesvos",
+  "version": "1.0.0",
+  "description": "'an interactive story of refugee arrival to lesvos'",
+  "main": "index.js",
+  "scripts": {
+    "build-js": "browserify -t debowerify src/js/index.js -w -o build/bundle.js",
+    "build-assets": "rm -r  build/assets ; cp -r src/assets build",
+    "build-html":"cp src/index.html index.html",
+    "build-css": "node-sass --include-path scss src/css/main.scss build/css/main.css",
+    "build" : "npm run build-html; npm run build-assets; npm run build-css; npm run build-js;",
+    "watch": "npm-watch",
+    "launch": "open ./build/index.html & npm run watch",
+    "dist-css": "cleancss build/css/main.css -o dist/css/main.css",
+    "dist-assets": "rm -r dist/assets ; cp -r build/assets dist",
+    "dist-js":"uglifyjs build/bundle.js -o dist/bundle.js",
+    "dist-html": "htmlminify build/index.html -o dist/index.html",
+    "dist" : "npm run dist-html; npm run dist-assets; npm run dist-css; npm run dist-js;"
+  },
+  "author": "Jacob Griswold-Moran",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "bower-requirejs": "^1.2.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "debowerify": "^1.4.1",
+    "htmlify": "^0.1.0",
+    "minifier": "^0.7.1",
+    "node-sass": "^3.4.2",
+    "nodemon": "^1.9.1",
+    "npm-watch": "^0.1.1",
+    "uglifyify": "^3.0.1"
+  },
+  "watch": {
+    "build-html": "src/index.html",
+    "build-css": "src/css/main.scss",
+    "build-assets": "src/assets/*",
+    "build-js": "src/js/index.js"
+  }
+}
