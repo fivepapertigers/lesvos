@@ -56,7 +56,6 @@ exports = module.exports = (function() {
       }
 
       iframe = embedCode.getElementsByTagName('iframe')[0];
-      console.log(iframe)
       try {
         // Try writing the iframe payload directly from the string...
         var doc = iframe.contentDocument;

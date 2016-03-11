@@ -15,7 +15,7 @@
     "build": "npm run build-html; npm run build-assets; npm run build-css; npm run build-js;",
     "watch": "npm-watch",
     "launch": "open ./build/index.html & npm run watch",
-    "dist-css": "cleancss build/css/main.css -o dist/css/main.css",
+    "dist-css": "cp build/css/main.css dist/css/main.css",
     "dist-assets": "rm -r dist/assets ; cp -r build/assets dist",
     "dist-js": "uglifyjs build/bundle.js -o dist/bundle.js",
     "dist-html": "htmlminify build/index.html -o dist/index.html",
