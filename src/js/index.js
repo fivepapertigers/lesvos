@@ -6,13 +6,14 @@ var animation_gsap = require('scrollmagic/scrollmagic/uncompressed/plugins/anima
 var indicators = require('scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators.js');
 var ScrollMagic = require('scrollmagic');
 require('magnific-popup');
+require('./thescene_embed.js'); 
 
 
 
 
 
 var neda_video = null
-var title_video = null
+var title_video = null 
 
 
 $(document).ready(function($){ 
@@ -22,12 +23,12 @@ $(document).ready(function($){
     autoPlay: true,
     container: 'opening-video-container'
   })
-  neda_video = videojs('neda-video')
-  neda_video.Background({
-    autoPlay: false,
-    volume: 1,
-    container: 'neda-video-container'
-  })
+  // neda_video = videojs('neda-video')
+  // neda_video.Background({
+  //   autoPlay: false,
+  //   volume: 1,
+  //   container: 'neda-video-container'
+  // })
 
   slide_show_settings= {
     delegate: 'a',
@@ -71,27 +72,27 @@ for (var i=1; i<34; i++) {
   $('#lesvos-slideshow a').first().show()
 }
 
-var nedaVolume = function (e) {
-  var progress = e.progress * 3
-  var volume;
-  if (progress > 2) {//fade_out
-    volume = 1 - (progress - 2)
-    if ($('#neda-image').is(':visible')) {
-      $('#neda-image').hide()
-      $('#rafat-image').show()
-    }
-  } else if (progress > 1) {//video_is_up
-    volume = 1
-  } else {//fade_in
-    volume = progress
-    if ($('#rafat-image').is(':visible')) {
-      $('#rafat-image').hide()
-      $('#neda-image').show()
-    }
-  }
-  neda_video.volume(volume)
+// var nedaVolume = function (e) {
+//   var progress = e.progress * 3
+//   var volume;
+//   if (progress > 2) {//fade_out
+//     volume = 1 - (progress - 2)
+//     if ($('#neda-image').is(':visible')) {
+//       $('#neda-image').hide()
+//       $('#rafat-image').show()
+//     }
+//   } else if (progress > 1) {//video_is_up
+//     volume = 1
+//   } else {//fade_in
+//     volume = progress
+//     if ($('#rafat-image').is(':visible')) {
+//       $('#rafat-image').hide()
+//       $('#neda-image').show()
+//     }
+//   }
+//   neda_video.volume(volume)
 
-}
+// }
 
 var stickyAnimations = function (e) {
   if (e.state == 'AFTER') {
@@ -106,21 +107,13 @@ var stickyAnimations = function (e) {
 
 
 var openingTimeline = new TimelineMax()
-  .to('#opening-text h1', .5, {opacity: 1})
   .to('#opening-text p', .5, {opacity: 1})
   .to('#opening-text', 2, {opacity: 1})
   .to('#opening-video-container', .5, {opacity: 0})
   .to('#opening', 2, {opacity: 0})
-var rescueTimeline = new TimelineMax()
-  .to('#rescuers #rescuers1',1,{opacity:0},1)
-  .to('#rescuers #rescuers2',1,{opacity:0},3)
-var bittersweetTimeline = new TimelineMax()
-  .to($("#bittersweet-quote > .bittersweet-quote-background")[0], 3, {width: '120%', height: '120%', left:'-10%', top: '-10%'}, 0)
-  .to("#bittersweet-quote .bittersweet-quote-text", 1, {opacity: 1}, 0)
-  .to("#bittersweet-quote .bittersweet-quote-text", 1, {opacity: 0}, 2)
-var nedaPageTimeline = new TimelineMax()
-  .to("#neda-video-container", 1, {opacity: 1}, 0)
-  .to("#neda-video-container", 1, {opacity: 0}, 2)
+// var nedaPageTimeline = new TimelineMax()
+//   .to("#neda-video-container", 1, {opacity: 1}, 0)
+//   .to("#neda-video-container", 1, {opacity: 0}, 2)
 
 
 
@@ -137,34 +130,22 @@ var scenes = {
     setTween: openingTimeline,
     events:{leave: stickyAnimations}
   },
-  'rescuers': {
+  'vanity-fair': {
     duration: '100%',
-    setTween: rescueTimeline,
-    events: {
-      leave: stickyAnimations
-    },
+    events:{leave: stickyAnimations}
   },
-  'romeo':{},
-  'whats-app':{},
-  'bittersweet-quote': {
-    duration: '100%',
-    events: {
-      leave: stickyAnimations
-    },
-    setTween: bittersweetTimeline
-  },
-  'route-of-death': {},
   'neda-video-page': {
-    setTween: nedaPageTimeline,
-    duration: '300%',
-    events: {
-      enter: function(){neda_video.play()},
-      leave: function(e){
-        stickyAnimations(e);
-        neda_video.pause();
-      },
-      progress: nedaVolume
-    }
+    // setTween: nedaPageTimeline,
+    duration: '100%',
+    events:{leave: stickyAnimations}
+    // events: {
+    //   enter: function(){neda_video.play()},
+    //   leave: function(e){
+    //     stickyAnimations(e);
+    //     neda_video.pause();
+    //   },
+    //   progress: nedaVolume
+    // }
   }
 }
 

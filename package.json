@@ -8,7 +8,7 @@
     "init-dist": "mkdir dist; mkdir dist/css; mkdir dist/assets;",
     "init":"npm run init-build; npm run init-dist",
     "clean":"rm -rf dist; rm -rf build; npm run init;",
-    "build-js": "browserify -t debowerify src/js/index.js -w -o build/bundle.js",
+    "build-js": "browserify -t debowerify src/js/*.js -w -o build/bundle.js",
     "build-assets": "rm -r  build/assets ; cp -r src/assets build",
     "build-html": "cp src/index.html build/index.html",
     "build-css": "node-sass --include-path scss src/css/main.scss build/css/main.css",
@@ -42,6 +42,6 @@
     "build-html": "src/index.html",
     "build-css": "src/css/main.scss",
     "build-assets": "src/assets/*",
-    "build-js": "src/js/index.js"
+    "build-js": "src/js/*.js"
   }
 }
