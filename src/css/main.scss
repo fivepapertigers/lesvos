@@ -374,6 +374,16 @@ div[class*="fixed-overlay"] {
   clear: both;
 }
 
+.donate {
+  margin: 50px;
+}
+
+.donate a {
+  width: 400px;
+  max-width: 90%;
+  font-size: 1.3em;
+}
+
 div.black-on-white {
   background-color: white;
   color: black;
@@ -395,7 +405,6 @@ div.black-on-white {
   width: 100%;
   text-align:center;
   margin: 0 auto;
-  margin-bottom:200px;
 }
 
 .absolute-bottom {
